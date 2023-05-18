@@ -1,0 +1,15 @@
+.pipExample {
+    /* width: 320px; */
+    padding: 1px;
+    border:  solid gray;
+    margin: 0;
+  }
+  table,th,tr,td{
+    border: 1px solid black; text-align: left;
+  }
+
+  .parent-box {
+    padding: 1px;
+    border:  solid gray;
+    margin: 0;
+  }
